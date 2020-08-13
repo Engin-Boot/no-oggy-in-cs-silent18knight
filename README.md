@@ -8,5 +8,5 @@ Remove all strings starting with "oggy".
 
 ## Method
 
-The solution iterates the whole list and search for the strings 
-which starts with "oggy" and then delete that.
+The approach is to iterate throuth the complete list of strings comparing each string
+and if it starts with "oggy" remove it.
