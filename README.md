@@ -4,7 +4,7 @@
 
 ## Intention
 
-This program remove all strings starting with "oggy".
+Remove all strings starting with "oggy".
 
 ## Method
 
