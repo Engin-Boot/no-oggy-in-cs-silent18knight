@@ -5,8 +5,9 @@
 
 ## Intention
 
-This program intends to remove strings containing "oggy" from a list of strings.
+This program remove all strings starting with "oggy".
 
 ## Method
 
-The solution iterates the whole list and search for the strings which starts with "oggy" and then delete that.
+The solution iterates the whole list and search for the strings 
+which starts with "oggy" and then delete that.
