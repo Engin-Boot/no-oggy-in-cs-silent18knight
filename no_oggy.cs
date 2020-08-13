@@ -9,9 +9,9 @@ class NoOggyChecker
         if(names[i].StartsWith("oggy")){
           names.Remove(names[i]);
           i--;
-       }
-    }
-  }
+        }
+      }
+   }
   static bool OggyIsRemoved(List<string> names)
   {
     return names.Find(x => x.Contains("oggy")) == null;
